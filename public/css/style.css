@@ -22,6 +22,39 @@ margin: 50px;
   margin : auto
 }
 
+.padding{
+  padding: 50px;
+}
+
+.paddingLeft {
+  padding-left: 20%;
+}
+
+.blockInfini{
+display: inline;
+}
+
+.blockInfiniAndroid{
+  display: none;
+  }
+
+  .largeur{
+    width: auto;
+    float: auto;
+    overflow: auto; 
+  }
+
+  .absolue{
+    position: fixed;
+    background-color: green;
+    margin-left: 50%;
+    top: 50%;
+ }
+
+ .backAndroid{
+   background-color: blue;
+ }
+
 /* Exo margin */
 /* fin exo margin */
 
