@@ -1,0 +1,38 @@
+body {
+  margin: 0
+}
+
+section{
+    background-color: #4da6ff;
+}
+
+h2{
+    background-color: yellow;
+    border: #000000 2px solid;
+height: 300px;    
+margin: 50px;
+}
+
+.tartine2{
+  margin-left: 20%;
+}
+
+
+.auto{
+  margin : auto
+}
+
+/* Exo margin */
+/* fin exo margin */
+
+/* exo padding */
+/* fin exo padding */
+
+/* exo display */
+/* fin exo display */
+
+/* exo position */
+/* fin exo position */
+
+/* exo position (priorité) */
+/* fin exo position (priorité) */
